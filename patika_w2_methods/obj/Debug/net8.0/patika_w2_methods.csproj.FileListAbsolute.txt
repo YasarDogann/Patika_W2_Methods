@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\bin\Debug\net8.0\patika_w2_methods.exe
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\bin\Debug\net8.0\patika_w2_methods.deps.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\bin\Debug\net8.0\patika_w2_methods.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\bin\Debug\net8.0\patika_w2_methods.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\bin\Debug\net8.0\patika_w2_methods.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\refint\patika_w2_methods.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\patika_w2_methods.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_methods\patika_w2_methods\obj\Debug\net8.0\ref\patika_w2_methods.dll
